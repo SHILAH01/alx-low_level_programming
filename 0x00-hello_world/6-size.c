@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 /**
  * main- prints size of many var types
  *
